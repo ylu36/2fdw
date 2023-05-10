@@ -9,3 +9,4 @@ config:
   PAT2: glpat-5bUd1ixEqRze3o2m9so1
   PAT: glpat-4yUd1iXEqRzeWodm9Lod
   PAT1: glpat-4oUd1iXEqRzeWodm81oc
+  jwt: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
