@@ -5,6 +5,7 @@ config:
   id: ylu
   password: g3qt43tgeag!@q
   github_token: D24-F1dzdAQx2d7dywYy
+  gh_token: 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
   PAT2: glpat-5bUd1ixEqRze3o2m9so1
   PAT: glpat-4yUd1iXEqRzeWodm9Lod
   PAT1: glpat-4oUd1iXEqRzeWodm81oc
